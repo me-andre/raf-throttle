@@ -6,7 +6,3 @@ coverage
 
 # Dependency directory
 node_modules
-
-# Build
-lib
-umd
